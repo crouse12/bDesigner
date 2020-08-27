@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>bDesigner</title>
+</head>
+<body>
+
+<h1>透過C Blockly控制Pockcet</h1>
+<pre><h3>
+Pocket本身具有藍芽功能，所以可以使用藍芽來跟手機互通訊息，跟WIFI一樣，
+可以在android手機端安裝下面這個藍芽APP。
+<img src="./img/n11.bmp">
+先接好blockly的藍芽積木，注意，在下面的範例中，Hello是藍芽設備名稱，請
+選擇自己想要的藍芽名稱。
+<img src="./img/n15.bmp">
+點選藍芽，你可以看到很多以前連線過的裝置，第一次連線會在可用裝置，請點
+選進行配對。
+<img src="./img/n12.bmp">
+配對完畢後，你可以進入到手機的APP，然後點選左上角。
+<img src="./img/n13.bmp">
+接著會彈出一個視窗，請點選Terminal
+<img src="./img/n14.bmp">
+選擇剛加入的Hello這個藍芽裝置
+<img src="./img/n16.bmp">
+然後就可以點選螢幕上方的接頭連接APP和Pocket
+<img src="./img/n17.bmp">
+</pre></h3>
+</body>
+</html>
